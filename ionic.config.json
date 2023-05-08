@@ -1,0 +1,7 @@
+{
+  "name": "ionic-angular-vite-esbuild",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
