@@ -6,5 +6,5 @@ Minimal reproduction repo for bug: https://github.com/ionic-team/ionic-framework
 # Clone this repo
 
 npm i
-ionic serve --open
+npm run start
 ```
